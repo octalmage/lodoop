@@ -3,6 +3,7 @@ DetectHiddenWindows, On
 VarSetCapacity(output2 ,8)
 
 output2=
+
 havekey=0
 ;-------------------------Instructions-------------------------
 ;
