@@ -507,7 +507,7 @@ InputOnTop:
  WinSet, AlwaysOnTop, On, lodoop - Login
 gui,+lastfound
 ControlFocus , edit1,lodoop - Login
- SetTimer, InputOnTop, Off
+ SetTimer, InputOnTop, on
 Return
 
 
